@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi there, I'm Moin Khan</h3>
+<h2 align="center">👋 Hi there, I'm Moin Khan</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nmkhans"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/filled/linkedin.svg" alt="linkedin" /></a> •
