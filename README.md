@@ -27,7 +27,7 @@ Let’s connect and create something amazing together! 🚀
 
 ## Current Overview
 - 🧣 **Deep Diving into Advanced React & Next.js**
-  <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVha3gzNGxxejJ5Z2xnbTZwaGtuNW1lYXMzMjdwYzM5b3lvcmk4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LojladCSqrWbeaG1jQ/giphy.gif" alt="Penguin" width="23%" />
+  <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3JmczV3bmhqN3p2ZGdtOXdreDY4ZjEwMjVsaGZuYXlvYmRveG95NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fc0krhDnpoMw2TWYoz/giphy.gif" alt="overview" width="13%" />
 
 - 🔭 **Exploring Figma and Ai** for design mockups.
 - 💻 **Working on a new online matrimony project.**
@@ -35,7 +35,7 @@ Let’s connect and create something amazing together! 🚀
 
 <br />
 
- ## :hammer_and_wrench: Tech Stack
+## :hammer_and_wrench: Tech Stack
 <p align="left">
   
 <!-- Programming Languages  -->
@@ -66,8 +66,19 @@ Let’s connect and create something amazing together! 🚀
 
 
 ## ⚡ GitHub Stats
+<p align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=nmkhans&show_icons=true&count_private=true&theme=synthwave" />
 <img align="left" src="https://nirzak-streak-stats.vercel.app/?user=nmkhans&theme=synthwave&hide_border=false" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmkhans&layout=compact&count_private=true&theme=synthwave" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmkhans&layout=compact&count_private=true&theme=synthwave" /> 
+  <br />
+</p>
 
+<br />
+
+
+
+## ❤️ Let's get connected
+<p align="left">
+  <a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
 
