@@ -27,25 +27,27 @@ Let’s connect and create something amazing together! 🚀
 
  ## 💻 Tech Stack
 <p align="left">
-    <!-- Programming Languages  -->
+  
+<!-- Programming Languages  -->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,python,typescript,javascript&perline=5&theme=light" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,c,cpp,&perline=5&theme=light" alt="Programming Languages" />
   </a>
 </p>
 
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NkZms5dG5nMXlncDRib2UydGhnNXI2cXIwcHdlaWZxMjR1NHczbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yTFemEJxmeW2YLOT6p/giphy.gif" alt="Penguin" width="25%" />
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazY4cmFvYjFtOWJsYzY2eXlzY2l4bmZxOWVxcXhvMnJ1ZzNnbHVxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" alt="coding" width="25%" />
+
 <!-- Framework -->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,express&perline=6&theme=light" alt="Frameworks" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,redux,nextjs,nodejs,express&perline=6&theme=light" alt="Frameworks" />
   </a>
 </p>
 
 <!-- tools -->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vite,npm,wordpress,mongodb,firebase,netlify,vercel,figma&perline=9&theme=light" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=git,github,vite,npm,firebase,mongodb,netlify,vercel&perline=9&theme=light" alt="Tools" />
   </a>
 </p>
 
@@ -55,4 +57,7 @@ Let’s connect and create something amazing together! 🚀
 
 ## ⚡ GitHub Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=nmkhans&show_icons=true&count_private=true&theme=synthwave" />
+<img align="left" src="https://nirzak-streak-stats.vercel.app/?user=nmkhans&theme=synthwave&hide_border=false" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmkhans&layout=compact&count_private=true&theme=synthwave" />
+
+
