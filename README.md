@@ -25,6 +25,16 @@ Let’s connect and create something amazing together! 🚀
 - 📫 Reach me on [<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/filled/linkedin.svg" alt="linkedin" />](https://www.linkedin.com/in/nmkhans) or [@](mailto:nurmoin05@gmail.com)  
 - 😄 Pronouns: He/Him
 
+## Current Overview
+- 🧣 **Deep Diving into Advanced React & Next.js**
+  <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVha3gzNGxxejJ5Z2xnbTZwaGtuNW1lYXMzMjdwYzM5b3lvcmk4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LojladCSqrWbeaG1jQ/giphy.gif" alt="Penguin" width="23%" />
+
+- 🔭 **Exploring Figma and Ai** for design mockups.
+- 💻 **Working on a new online matrimony project.**
+- 🤝 **Looking to collaborate on open-source projects.**
+
+<br />
+
  ## :hammer_and_wrench: Tech Stack
 <p align="left">
   
