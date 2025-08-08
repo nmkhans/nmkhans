@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./card.svg" alt="Modern Profile Banner" width="100%" style="border-radius: 10px;">
+</p>
+
 <h2 align="center">👋 Hi there, I'm Moin Khan</h2>
 
 <p align="center">
